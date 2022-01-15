@@ -20,7 +20,7 @@ For Linux
 ```
 For Windows
 ```bash
--> .NET 4.7.2
+-> .NET 4.7.2 Install from: https://go.microsoft.com/fwlink/?LinkId=863262
 ```
 
 Supported audio files: .mp3
