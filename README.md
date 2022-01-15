@@ -16,7 +16,7 @@ $ Extract files and run MusicPlayer.exe
 ## Setup Environment
 For Linux
 ```bash
--> wine i386
+-> wine amd64: sudo apt install wine64
 ```
 For Windows
 ```bash
