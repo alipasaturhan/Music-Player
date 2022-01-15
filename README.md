@@ -13,7 +13,7 @@ Install for Windows (NT).
 $ Download as ZIP
 $ Extract files and run MusicPlayer.exe
 ```
-## Environment
+## Setup Environment
 For Linux
 ```bash
 -> wine i386
