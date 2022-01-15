@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install for Linux (POSIX).
+Install for Linux (POSIX). Not Tested
 ```bash
 $ git clone https://github.com/alipasaturhan/Music-Player
 $ cd Music-Player
